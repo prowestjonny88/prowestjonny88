@@ -13,3 +13,7 @@
 * 📫 How to reach me: hjon3456@gmail.com
 * ❤️ I love daydreaming
 * ⚡ Fun fact: Jon @ Jonny
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
