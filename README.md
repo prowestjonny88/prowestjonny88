@@ -45,7 +45,7 @@ Commerce Order Processing System — Simple Java console application demonstrati
 
 🎉 Fun Facts
 
-My name is Jon, but I go by Jonny!
+My name is Jon, but sometimes I go by Jonny!
 
 I thrive in hackathons — building prototypes overnight with coffee and creativity.
 
@@ -55,9 +55,9 @@ When I’m not coding, I like tinkering with gadgets and exploring new tech.
 
 I'm always open to collaborations and conversations:
 
-✉️ Email: your-email@example.com
+✉️ Email: hjon3456@gmail.com
 
-💼 LinkedIn: link‑to‑your‑profile
+💼 LinkedIn: www.linkedin.com/in/ng-hong-jon
 
 🧪 Check out my pinned repositories for more!
 
