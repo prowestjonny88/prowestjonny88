@@ -45,7 +45,7 @@ Commerce Order Processing System — Simple Java console application demonstrati
 
 🎉 Fun Facts
 
-My name is Jonathan, but I go by Jonny (or sometimes Jon@ in code)!
+My name is Jon, but I go by Jonny!
 
 I thrive in hackathons — building prototypes overnight with coffee and creativity.
 
