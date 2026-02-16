@@ -5,7 +5,7 @@
 
 <!-- ⌨️ TYPING EFFECT: The "Terminal" Vibe -->
 <a href="https://github.com/prowestjonny88">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=System.out.println(%22Stay+Hungry%22);while(alive)+%7B+code()+%7D;Building+SafeX+and+breaking+prod;Loading+Hackathon_Mode...;Error+404:+Sleep+not+found" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=System.out.println(%22Stay+Hungry,+Stay+Foolish%22);while(alive)+%7B+code()+%7D;Building+SafeX+and+breaking+prod;Loading+Hackathon_Mode...;Error+404:+Sleep+not+found" alt="Typing SVG" />
 </a>
 
 <!-- 🤝 SOCIAL BADGES: Clean & Minimal -->
