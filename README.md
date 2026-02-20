@@ -1,11 +1,12 @@
 <div align="center">
 
 <!-- 🌊 DYNAMIC HEADER: Waving Gradient Banner -->
-<img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=0,255,150,0,200,255&height=280&section=header&text=Hello,%20World!%20I'm%20Jonny&fontSize=70&animation=fadeIn&fontAlignY=35&desc=CS%20Student%20//%20Hackathon%20Survivor%20//%20Coffee%20Converter&descAlignY=55&descSize=20&fontColor=ffffff" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Hello,%20World!%20I%27m%20Jonny&fontSize=70&animation=fadeIn&fontAlignY=35&desc=CS%20Student%20%E2%80%A2%20Hackathon%20Survivor%20%E2%80%A2%20Coffee%20Converter&descAlignY=55&descSize=20&fontColor=ffffff" width="100%" alt="Header" />
+
 
 <!-- ⌨️ TYPING EFFECT: The "Terminal" Vibe -->
 <a href="https://github.com/prowestjonny88">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&separator=|&lines=System.out.println(%22Stay+Hungry,+Stay+Foolish%22);|while(alive)+%7B+code()+%7D;|Building+SafeX+and+breaking+prod|Loading+Hackathon_Mode...|Error+404:+Sleep+not+found" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&separator=|&lines=System.out.println(%22Stay+Hungry,+Stay+Foolish%22);|while(alive)+%7B+code()+%7D;|Building+and+breaking+prod|Loading+Hackathon_Mode...|Error+404:+Sleep+not+found" alt="Typing SVG" />
 </a>
 
 <!-- 🤝 SOCIAL BADGES: Clean & Minimal -->
@@ -42,14 +43,14 @@
 
 <!-- Animated Skill Icons: A clean strip of tech logos -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,python,android,react,fastapi,postgres,git,idea,vscode,pytorch,tensorflow,streamlit,docker,linux&perline=7&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,androidstudio,react,fastapi,postgres,git,idea,vscode,pytorch,tensorflow,docker,linux&perline=7&theme=dark" />
 </a>
 
 </div>
 
 ---
 
-### 🏆 Hall of Fame (Featured Projects)
+### 🏆 Featured Projects  
 
 | Quest Name | Description | Tech Loot 💎 |
 | :--- | :--- | :--- |
@@ -66,8 +67,9 @@
 <div align="center">
 
 <!-- GitHub Stats: The "Radical" theme adds a cyberpunk neon vibe -->
-<img src="https://github-readme-stats.vercel.app/api?username=prowestjonny88&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="160" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prowestjonny88&layout=compact&theme=radical&hide_border=true&langs_count=6" height="160" alt="languages graph" />
+<img src="https://github-readme-stats-five-eta-83.vercel.app/api?username=prowestjonny88&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="160" alt="stats graph" />
+<img src="https://github-readme-stats-five-eta-83.vercel.app/api/top-langs/?username=prowestjonny88&layout=compact&theme=radical&hide_border=true&langs_count=6" height="160" alt="languages graph" />
+
 
 <br/>
 
