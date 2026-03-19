@@ -54,11 +54,11 @@
 
 | Quest Name | Description | Tech Loot 💎 |
 | :--- | :--- | :--- |
-| **🛡️ SafeX** | **The Guardian.** An Android scam-safety companion. Uses OCR & AI to analyze risks in real-time because the internet is scary. | `Android` `OCR` `AI` |
-| **🎙️ GODAM-SHADIAO** | **The Sass-Bot.** A multilingual voice assistant. It listens, it speaks, it (mostly) behaves. | `React` `FastAPI` `Speech` |
-| **📊 DATAVENGERS** | **The Oracle.** Visualizing AstraZeneca cash flows. Making finance look surprisingly sexy since 2023. | `Streamlit` `Python` |
-| **🏥 Organ-C** | **The Healer.** A predictive analytics platform for health-tech. | `FastAPI` `ML` `Postgres` |
-| **📦 Order Pro** | **The Classic.** A Java console app. Pure OOP glory. | `Java` `Console` |
+| [**🛡️ SafeX**](https://github.com/prowestjonny88/ai-working) | **The Guardian.** An Android scam-safety companion. Uses OCR & AI to analyze risks in real-time because the internet is scary. | `Android` `OCR` `AI` |
+| [**🎙️ GODAM-SHADIAO**](https://github.com/prowestjonny88/BorNeo-HackWknd) | **The Sass-Bot.** A multilingual voice assistant. It listens, it speaks, it (mostly) behaves. | `React` `FastAPI` `Speech` |
+| [**📊 DATAVENGERS**](https://github.com/prowestjonny88/DATAVENGERS) | **The Oracle.** Visualizing AstraZeneca cash flows. Making finance look surprisingly sexy since 2023. | `Streamlit` `Python` |
+| [**🏥 Organ-C**](https://github.com/prowestjonny88/predictory) | **The Healer.** A predictive analytics platform for health-tech. | `FastAPI` `ML` `Postgres` |
+| [**📦 Order Pro**](https://github.com/prowestjonny88/Commerce-Order-Processing-System) | **The Classic.** A Java console app. Pure OOP glory. | `Java` `Console` |
 
 ---
 
