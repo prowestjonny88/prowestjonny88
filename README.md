@@ -54,10 +54,10 @@
 
 | Quest Name | Description | Tech Loot 💎 |
 | :--- | :--- | :--- |
-| [**🛡️ SafeX**](https://github.com/prowestjonny88/ai-working) | **The Guardian.** An Android scam-safety companion. Uses OCR & AI to analyze risks in real-time because the internet is scary. | `Android` `OCR` `AI` |
-| [**🎙️ GODAM-SHADIAO**](https://github.com/prowestjonny88/BorNeo-HackWknd) | **The Sass-Bot.** A multilingual voice assistant. It listens, it speaks, it (mostly) behaves. | `React` `FastAPI` `Speech` |
+| [**🛡️ SafeX**](https://github.com/fuchuin19/SafeX---Your-AI-powered-and-real-time-safety-expert) | **The Guardian.** An Android scam-safety companion. Uses OCR & AI to analyze risks in real-time because the internet is scary. | `Android` `OCR` `AI` |
+| [**🎙️ GODAM-SHADIAO**](https://github.com/JunBin05/GODAM-SHADIAO) | **The Sass-Bot.** A multilingual voice assistant. It listens, it speaks, it (mostly) behaves. | `React` `FastAPI` `Speech` |
 | [**📊 DATAVENGERS**](https://github.com/prowestjonny88/DATAVENGERS) | **The Oracle.** Visualizing AstraZeneca cash flows. Making finance look surprisingly sexy since 2023. | `Streamlit` `Python` |
-| [**🏥 Organ-C**](https://github.com/prowestjonny88/predictory) | **The Healer.** A predictive analytics platform for health-tech. | `FastAPI` `ML` `Postgres` |
+| [**🏥 Organ-C**](https://github.com/joeming1/Organ-C-Codefest-Hackathon) | **The Healer.** A predictive analytics platform for health-tech. | `FastAPI` `ML` `Postgres` |
 | [**📦 Order Pro**](https://github.com/prowestjonny88/Commerce-Order-Processing-System) | **The Classic.** A Java console app. Pure OOP glory. | `Java` `Console` |
 
 ---
